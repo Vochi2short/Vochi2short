@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vochi2short
+- 👋 Hi, I’m David Onuoha 
 - 👀 I’m interested in Healthcare data analysis 
-- 🌱 I’m currently learning SQL, Tableau, and PowerBI
+- 🌱 I’m currently learning SQL, Tableau, RStudio, and PowerBI
 - 💞️ I’m looking to collaborate on healthcare projects
 - 📫 How to reach me... davotushort@gmail.com
 
